@@ -9,7 +9,7 @@
     width: 28px;
     height: 3px;
     margin: 0 0 5px 0;
-    background: #FFF;
+    background: #FFFFFF;
     transition: all 0.3s ease-in-out; }
   .menu-btn.close {
     transform: rotate(180deg); }
@@ -72,7 +72,7 @@
     text-transform: uppercase;
     padding: 1rem 0;
     font-weight: 300;
-    color: #FFF;
+    color: #FFFFFF;
     text-decoration: none;
     transition: all 0.3s ease-in-out; }
     .menu .nav-link:hover {
@@ -126,7 +126,7 @@
 
 body {
   background: #444;
-  color: #fff;
+  color: #FFFFFF;
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
